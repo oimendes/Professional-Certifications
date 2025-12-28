@@ -8,7 +8,7 @@ Este repositório centraliza minhas conquistas acadêmicas e técnicas nas área
 
 ## 🤖 Automação e Eficiência Operacional (RPA)
 * **Mestre Power Automate** - Máquina de Impacto (09h)
-* **RPA: Do Zero ao Avançado** - Udemy (04h)
+* **RPA: Do Zero ao Avançado** - Udemy (3.5h)
 * **Mapeamento de Processos, Fluxograma e SIPOC** - FM2S (06h)
 
 ## 📊 Business Intelligence & Data Science
