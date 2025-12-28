@@ -8,9 +8,13 @@ Este repositório centraliza minhas conquistas acadêmicas e técnicas. Clique n
 
 ## 📊 [Data & Business Intelligence](./power-bi/)
 **Microsoft Power BI for Business Intelligence and Data Science** – Data Science Academy (72h)
+
 **Microsoft Power BI** – SENAI "Mario Dedini" (32h)
+
 **Power BI Completo - Do Básico ao Avançado** – Udemy (10h)
+
 **Excel 2016 Avançado** – Senac Limeira (39h)
+
 * *Tableau para Data Science (Em andamento)*
 * *Banco de Dados SQL do Zero ao Avançado (Em andamento)*
 
