@@ -6,19 +6,19 @@ Este repositório centraliza minhas conquistas acadêmicas e técnicas. Clique n
 
 ---
 
-## 🤖 [Automation & RPA](./automation-rpa/)
+## 🤖 [Automation & RPA](./Automation_RPA/)
 **Mestre Power Automate** – Máquina de Impacto (09h)
 
 **RPA: do Zero ao Avançado!** – Udemy (3.5h)
 
-## 🔧 [Process Improvement & Lean](./lean-process-improvement/)
+## 🔧 [Process Improvement & Lean](./Lean_Process_Improvement/)
 **Certificação Lean Seis Sigma Green Belt** – FM2S (60h)
 
 **Lean Problem Solving** – Caterpillar Brasil (27h / 3 dias)
 
 **Fluxograma, SIPOC e Mapeamento de Processos** – FM2S (06h) 
 
-## 📊 [Data & Business Intelligence](./power-bi/)
+## 📊 [Data & Business Intelligence](./Power_BI/)
 **Microsoft Power BI for Business Intelligence and Data Science** – Data Science Academy (72h)
 
 **Microsoft Power BI** – SENAI (32h)
@@ -30,7 +30,7 @@ Este repositório centraliza minhas conquistas acadêmicas e técnicas. Clique n
 * *Tableau para Data Science (Em andamento)*
 * *Banco de Dados SQL do Zero ao Avançado (Em andamento)*
 
-## 🐍 [Python & Data Science](./python-data-science/)
+## 🐍 [Python & Data Science](./Python_Data_Science/)
 **Fundamentos de Linguagem Python do Básico a Aplicações de IA** – Data Science Academy (96h)
 
 **Fundamentos de Linguagem Python Para Análise de Dados, Data Science e Machine Learning** – Data Science Academy (64h)
