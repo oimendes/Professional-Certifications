@@ -9,7 +9,7 @@ Este repositório centraliza minhas conquistas acadêmicas e técnicas. Clique n
 ## 📊 [Data & Business Intelligence](./power-bi/)
 **Microsoft Power BI for Business Intelligence and Data Science** – Data Science Academy (72h)
 
-**Microsoft Power BI** – SENAI "Mario Dedini" (32h)
+**Microsoft Power BI** – SENAI (32h)
 
 **Power BI Completo - Do Básico ao Avançado** – Udemy (10h)
 
@@ -20,17 +20,23 @@ Este repositório centraliza minhas conquistas acadêmicas e técnicas. Clique n
 
 ## 🐍 [Python & Data Science](./python-data-science/)
 **Fundamentos de Linguagem Python do Básico a Aplicações de IA** – Data Science Academy (96h)
+
 **Fundamentos de Linguagem Python Para Análise de Dados, Data Science e Machine Learning** – Data Science Academy (64h)
+
 **Curso de Python do Básico ao Avançado** – Hora de Codar (37h) 
+
 **Jornada Python** – Hashtag Treinamentos (08h)
 
 ## 🤖 [Automation & RPA](./automation-rpa/)
 **Mestre Power Automate** – Máquina de Impacto (09h)
+
 **Curso Completo de RPA: do Zero ao Avançado!** – Udemy (3.5h)
+
 **Fluxograma, SIPOC e Mapeamento de Processos** – FM2S (06h) 
 
 ## 🔧 [Process Improvement & Lean](./lean-process-improvement/)
 **Certificação Lean Seis Sigma Green Belt** – FM2S (60h)
+
 **Lean Problem Solving** – Caterpillar Brasil (27h / 3 dias)
 
 ---
